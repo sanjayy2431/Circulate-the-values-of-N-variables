@@ -20,14 +20,19 @@ Print both the values it would be interchanged
 End the program
 ## Program:
 ```
+#Program to circulate N variables
+#Developed by: V.sanjay
+#Register number: 212223230188
+
 def circulate():
     l=eval(input())
     n=int(input())
     l=l[n:] + l[:n]
-    print("After circulating the values are:",l)
+    print("After circulating the values are:",l) 
 ```
 ## Output:
-![Screenshot 2024-03-09 093754](https://github.com/sanjayy2431/Circulate-the-values-of-N-variables/assets/149365143/85716027-2f9d-4cb8-a3f0-8f4bfad83a77)
+![Screenshot 2024-04-02 194216](https://github.com/sanjayy2431/Circulate-the-values-of-N-variables/assets/149365143/9b99cfa4-57aa-4c23-bd75-d9662346b379)
+
 
 ## Result:
 
