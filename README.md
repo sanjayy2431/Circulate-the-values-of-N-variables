@@ -19,11 +19,11 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## Program:
-```
-#Program to circulate N variables
-#Developed by: V.sanjay
-#Register number: 212223230188
 
+## Program to circulate N variables
+## Developed by: V.sanjay
+## Register number: 212223230188
+```
 def circulate():
     l=eval(input())
     n=int(input())
@@ -31,7 +31,7 @@ def circulate():
     print("After circulating the values are:",l) 
 ```
 ## Output:
-![Screenshot 2024-04-02 194216](https://github.com/sanjayy2431/Circulate-the-values-of-N-variables/assets/149365143/9b99cfa4-57aa-4c23-bd75-d9662346b379)
+![alt text](image.png)
 
 
 ## Result:
